@@ -1,3 +1,5 @@
+# Learning and inference demo for Chat Models using LangChain and Google Generative AI API
+
 from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv
 

@@ -1,3 +1,5 @@
+# Learning and inference demo for Embedding Models using LangChain and OpenAI API
+
 from langchain_openai import OPENAIEmbeddings
 
 from dotenv import load_dotenv

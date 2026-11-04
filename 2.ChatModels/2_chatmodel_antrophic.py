@@ -1,3 +1,5 @@
+# Learning and inference demo for Chat Models using LangChain and Anthropic API
+
 from langchain_anthropic import ChatAnthropic
 from dotenv import load_dotenv
 

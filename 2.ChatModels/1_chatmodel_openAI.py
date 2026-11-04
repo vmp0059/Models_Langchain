@@ -1,3 +1,5 @@
+# Learning and inference demo for Chat Models using LangChain and OpenAI API
+
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 
